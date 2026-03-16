@@ -88,14 +88,6 @@ while True:
                                             break
                                 else:
                                     break
-
-
-
-#           elif product == 'Товары для быта':
-
-#           elif product == 'Спортивная экипировка':
-
-#           elif product == 'Настольные игры':
                 else:
                     print ("Ошибка попробуйте выбрать категорию еще раз")
             else:
